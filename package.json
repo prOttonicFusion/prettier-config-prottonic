@@ -7,9 +7,10 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "prOttonicFusion",
+    "homepage": "https://github.com/prOttonicFusion/prettier-config-prottonic#readme",
     "repository": {
         "type": "git",
-    "url": "https://github.com/prOttonicFusion/prettier-config-prottonic"
+        "url": "https://github.com/prOttonicFusion/prettier-config-prottonic"
     },
     "license": "ISC"
 }
